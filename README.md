@@ -1,5 +1,5 @@
 # A simple Calculator
- A simple calculator using HTML, CSS &amp; Javascript
+ A simple calculator using HTML, CSS &amp; Javascript || [LIVE DEMO](https://cautionexists.github.io/Calculator-using-JS/)
  ![title-pic](https://github.com/cautionexists/Calculator-using-JS/blob/main/Title_img.png?raw=true)
  This is a simple calculator functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible.
  
