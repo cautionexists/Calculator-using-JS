@@ -1,6 +1,6 @@
 # A simple Calculator
  A simple calculator using HTML, CSS &amp; Javascript
- ![title-pic]()
+ ![title-pic](https://github.com/cautionexists/Calculator-using-JS/blob/main/Title_img.png?raw=true)
  This is a simple calculator functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible.
  
 ## Steps to execute this calculator:
